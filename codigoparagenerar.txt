@@ -1,0 +1,11 @@
+4/0AfJohXlFng8fstlrz12v2w6pdXTZNa3uSdBPXiAjVXh-8lJSFKkPKSKGwqe_Xg5n4-G4dg
+
+
+
+{
+    "code": "4/0AfJohXlFng8fstlrz12v2w6pdXTZNa3uSdBPXiAjVXh-8lJSFKkPKSKGwqe_Xg5n4-G4dg",
+    "client_id": "69558064090-4ot1f7uqnvidmgk61fu3fot6lajth5va.apps.googleusercontent.com",
+    "client_secret": "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",
+    "redirect_uri": "https://developers.google.com/oauthplayground",
+    "grant_type": "authorization_code"
+}
